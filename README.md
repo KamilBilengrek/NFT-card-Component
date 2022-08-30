@@ -2,8 +2,8 @@
 
 ## Overview
 
-Hello!
-This is my second project from the [Frontend Mentor](https://www.frontendmentor.io).
+Hello!  
+This is my second project from the [Frontend Mentor](https://www.frontendmentor.io).  
 This one was a bit different than the first one but idea was the same. The biggest issue I had was with the horizontal line between NFT description section and creator info section.  
 Spacing and centering images with text was also a bit of a trouble for me.
 
@@ -27,9 +27,9 @@ In future I want to work on quality of my code.
 
 ## Author
 
-- Frontend Mentor - [Kamil](https://www.frontendmentor.io/profile/Kammilos)
 - LinkedIn - [Kamil Bilengrek](https://www.linkedin.com/in/kamil-bilengrek-612a82238/)
 - GitHub - [KamilBilengrek](https://github.com/KamilBilengrek)
+- Frontend Mentor - [Kamil](https://www.frontendmentor.io/profile/Kammilos)
 
 ## Contribution
 
